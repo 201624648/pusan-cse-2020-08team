@@ -2,8 +2,8 @@
 PNU Later graduation project 08team(고진감래)
 
 
-==================================================================
-Elevator voice control system
+=========================Elevator voice control system=========================================
+
 
 2020 후기 졸업과제
 
